@@ -9,7 +9,9 @@
 - [x] 你不知道的JavaScript（上卷）
 - [x] 你不知道的JavaScript（中卷）
 - [x] 你不知道的JavaScript（下卷）
+- [x] JavaScript正则表达式迷你书（1.1版）
 - [ ] JavaScript 权威指南
+- [ ] 高性能JavaScript_编程
 
 ## TypeScript
 - [x] Typescript手书
@@ -25,6 +27,8 @@
 ## Other
 
 - [x] 图解物联网
+- [x] Nginx 入门指南 - v1.0
+- [x] 两个月精通 Shell 脚本 - v1.1
 
 ## 下载
 
